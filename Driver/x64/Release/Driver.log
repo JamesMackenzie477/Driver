@@ -1,0 +1,5 @@
+﻿  Driver.cpp
+Driver.cpp(3065): warning C4018: '<': signed/unsigned mismatch
+Driver.cpp(3336): warning C4018: '<': signed/unsigned mismatch
+Driver.cpp(3339): warning C4302: 'type cast': truncation from 'HANDLE' to 'USHORT'
+  Driver.vcxproj -> D:\Projects\C++\Driver\x64\Release\Driver.lib
